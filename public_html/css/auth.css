@@ -1,0 +1,7 @@
+div.icon{
+	width: 140px;
+	height: 140px;
+}
+tr.valign-middle td,tr.valign-middle th,td.valign-middle,th.valign-middle{
+	vertical-align: middle!important;
+}
